@@ -1,10 +1,10 @@
 {
-  "name": "elementsix-skills",
-  "description": "ElementSix的Claude Code Skills合集",
+  "name": "zhangsir-skills",
+  "description": "zhangsir2026的Claude Code Skills合集",
   "version": "1.0.0",
   "owner": {
-    "name": "elementsix",
-    "email": "elementsixsoft@gmail.com"
+    "name": "zhangsir2026",
+    "email": "453600825@qq.com"
   },
   "plugins": [
     {
