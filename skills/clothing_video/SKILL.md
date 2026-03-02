@@ -1,5 +1,5 @@
 ---
-name: seedance-storyboard
+name: clothing_video
 description: 服装品牌即梦视频提示词生成器。根据人数、衣服风格、道具、年龄段，生成保持服装细节不变的专业 Seedance 视频提示词。当用户想生成服装展示视频、品牌视频时调用。
 disable-model-invocation: false
 ---
